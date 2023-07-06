@@ -24,7 +24,7 @@
     "cross-env": "^5.2.0",
     "css-loader": "^0.28.11",
     "eslint": "^5.16.0",
-    "eslint-config-airbnb": "^17.0.0",
+    "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "^2.9.0",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-flowtype": "^2.49.3",
